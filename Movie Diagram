@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T02:18:54.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="whVxGeu4biajHUJtA-85" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T02:22:32.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Yds6VcjuRmPTdQVIu3z0" version="14.6.10" type="github">
   <diagram id="A5z71v_lyMa_-OlzCSNe" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0TUVauNiogC7NVlRFYyk-11" value="Movie List" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="0TUVauNiogC7NVlRFYyk-9" vertex="1">
-          <mxGeometry x="10" y="30" width="200" height="410" as="geometry" />
+          <mxGeometry x="10" y="90" width="200" height="350" as="geometry" />
         </mxCell>
         <mxCell id="lSUTX46TeNT9_i_Hq0Yf-6" value="List Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0TUVauNiogC7NVlRFYyk-11">
           <mxGeometry x="10" y="40" width="180" height="20" as="geometry" />
@@ -72,17 +72,17 @@
         <mxCell id="Ul9b4b1Gp6bj9lqnF0y5-4" value="New Releases" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="0TUVauNiogC7NVlRFYyk-9" vertex="1">
           <mxGeometry x="220" y="360" width="590" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="lSUTX46TeNT9_i_Hq0Yf-2" value="Nav Bar Dropdown" style="swimlane;startSize=23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="0TUVauNiogC7NVlRFYyk-9">
+          <mxGeometry x="10" y="30" width="200" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="0TUVauNiogC7NVlRFYyk-10" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="10" y="780" width="830" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ul9b4b1Gp6bj9lqnF0y5-2" value="Search Bar" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="220" y="90" width="140" height="20" as="geometry" />
+          <mxGeometry x="20" y="90" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ul9b4b1Gp6bj9lqnF0y5-3" value="User Login and Profile" style="rounded=1;whiteSpace=wrap;html=1;align=right;" parent="1" vertex="1">
           <mxGeometry x="660" y="90" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="lSUTX46TeNT9_i_Hq0Yf-2" value="Nav Bar Dropdown" style="swimlane;startSize=23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="10" y="85" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
